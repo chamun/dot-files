@@ -10,4 +10,9 @@ bind k select-pane -U
 bind l select-pane -R
 
 # THEME
-set -g window-status-current-format "[#I:#W]"
+set -g window-status-current-format "#I:#W"
+set -g status-bg default
+set -g status-fg "#dddddd"
+set -g window-status-current-bg default
+set -g window-status-current-fg red
+set -g window-status-current-attr bold
