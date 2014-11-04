@@ -1,0 +1,6 @@
+! Don't forget to:
+!   xrdb -merge ~/.Xresources
+URxvt*scrollBar:false
+URxvt*background: #000000
+URxvt*foreground: #ffffff
+URxvt.font: xft:Ubuntu Mono:size=12
