@@ -5,3 +5,4 @@ URxvt*background: #000000
 URxvt*foreground: #ffffff
 URxvt.font: xft:Ubuntu Mono:size=12
 URxvt*loginShell: true
+URxvt.geometry: 90x25
