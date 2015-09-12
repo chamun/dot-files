@@ -1,4 +1,4 @@
-! Don't forget to:
+! Do not forget to:
 !   xrdb -merge ~/.Xresources
 URxvt*scrollBar:false
 URxvt*background: #000000
